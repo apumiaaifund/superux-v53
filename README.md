@@ -1,5 +1,8 @@
 # SuperUX v5.3 — Public Demo
 
+<p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
+
+
 ## За 30 секунд
 
 **Что это:** SuperUX v5.3: on-premise UX-аудит с ФЗ-152. Не отправляет данные в облако, работает локально.
