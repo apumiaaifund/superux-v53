@@ -1,3 +1,6 @@
+
+<p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
+
 <p align="center">
   <img src="docs/logo.png" alt="superux-v53-demo" width="200"/>
 </p>
