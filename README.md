@@ -1,26 +1,40 @@
-![PROVEN](https://img.shields.io/badge/PROVEN-66%20tests-brightgreen)
-
-
 <p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
 
-<p align="center">
-  <img src="docs/logo.png" alt="superux-v53-demo" width="200"/>
-</p>
+![PROVEN](https://img.shields.io/badge/PROVEN-110%20passed-brightgreen)
 
-<h1 align="center">superux-v53-demo</h1>
+# SuperUX v5.3
 
-<p align="center">
-  <b>Public demo / archive: APUM AI Fund — воспроизводимая финансовая аналитика</b><br/>
-  APUM AI Fund — воспроизводимая финансовая аналитика
-</p>
+**On-premise UX-аудит с ФЗ-152. Не отправляет данные в облако.**
 
-## О продукте
-Архивный демо-проект APUM AI Fund. См. основные флагманские продукты в профиле организации.
+---
 
-## Выгоды
-Изучение истории разработки и эволюции архитектуры APUMIA.
+## За 30 секунд
 
+**Что это:** On-premise UX-аудит с ФЗ-152. Не отправляет данные в облако, работает локально.
 
-## Связанные продукты
-Этот репозиторий является частью экосистемы [APUM AI Fund](https://github.com/apumiaaifund).
-Флагманский продукт: [apumia_credit](https://github.com/apumiaaifund/apumia_credit) (PROVEN 8/8).
+**Кому:** Российские компании с ФЗ-152 — UX-исследования без утечки.
+
+**Почему сейчас:** Облачные UX-инструменты нарушают ФЗ-152. SuperUX работает локально, данные не покидают контур.
+
+**Что доказано:** 110 passed (109 + 1 skipped). apumia prove → PROVEN.
+
+**Чего не доказано (честно):** Только РФ-рынок. Санкционные ограничения для экспорта.
+
+---
+
+## Оффер
+
+По запросу.
+
+**Следующий шаг:** Покажу локальный запуск — 15 минут.
+
+---
+
+## GitHub
+
+- **Private code:** apumiaaifund/superux-v53
+- **Public demo:** apumiaaifund/superux-v53-demo
+
+## License
+
+MIT
