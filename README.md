@@ -1,3 +1,5 @@
+![PROVEN](https://img.shields.io/badge/PROVEN-66%20tests-brightgreen)
+
 
 <p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
 
